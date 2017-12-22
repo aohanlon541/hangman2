@@ -1,0 +1,27 @@
+{
+  "name": "hangman2",
+  "version": "1.0.0",
+  "description": "take 2 at a hangman game",
+  "main": "app.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aohanlon541/hangman2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aohanlon541/hangman2/issues"
+  },
+  "homepage": "https://github.com/aohanlon541/hangman2#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node": "^9.3.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
